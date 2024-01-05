@@ -1,6 +1,8 @@
 import 'package:email_validator/email_validator.dart';
 import 'package:flutter/material.dart';
 
+import 'email_validator.dart';
+
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
 
